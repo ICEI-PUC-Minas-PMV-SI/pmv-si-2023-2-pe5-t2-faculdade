@@ -1,4 +1,4 @@
-# Título do Projeto
+# FACULDADE
 
 `CURSO: Sistemas de Informação`
 
@@ -10,14 +10,14 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* ISABELA BERSAN MARIANO PÁDUA
+* MATEUS SOARES MARTINS
+* MIKAELE THAINARA REZENDE COSTA
+* RENAN SILVA RODRIGUES
+* TULIO RIBEIRO MAIA
 
-## Orientador
+## Alexandre Teixeira
 
-* Nome completo do professor 1
+* Alexandre Teixeira
 
 
