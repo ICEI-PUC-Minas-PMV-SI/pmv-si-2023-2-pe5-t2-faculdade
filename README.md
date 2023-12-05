@@ -11,6 +11,7 @@
 > Número de funcionários: 180 <br>
 > Número de estudantes: 1210 <br>
 > Número de computadores: 340 <br>
+> Redes: Central, Filial Oeste, Filial Sul, Filial Leste <br>
 
 ## Integrantes
 
