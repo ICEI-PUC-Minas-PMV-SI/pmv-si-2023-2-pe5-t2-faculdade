@@ -10,7 +10,8 @@
 
 > Número de funcionários: 180  
 > Número de estudantes: 1210 
-> Número de computadores: 340 
+> Número de computadores: 340
+
 
 ## Integrantes
 
